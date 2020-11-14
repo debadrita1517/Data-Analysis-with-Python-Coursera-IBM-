@@ -3,10 +3,22 @@
   lecture notes of the above.**
   
 # Module-1 : Importing/Exporting of Datasets
-*  **Understanding the Data**
+* **Understanding the Data**
 
 * **Importing and Exporting Data in Python**
 
 * **Getting Started Analyzing Data in Python**
 
 * **Python Packages for Data Science**
+
+  
+# Module-2 : Data Wrangling
+* **Identifying and handling missing values**
+
+* **Data formatting**
+
+* **Data normalisation**
+
+* **Binding**
+
+* **Indicator variables**
