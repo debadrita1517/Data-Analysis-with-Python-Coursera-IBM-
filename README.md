@@ -2,7 +2,7 @@
 **This repository contains all the week wise
   lecture notes of the above.**
   
-# Week-1 : Importing/Exporting of Datasets
+# Module-1 : Importing/Exporting of Datasets
 *  **Understanding the Data**
 
 * **Importing and Exporting Data in Python**
